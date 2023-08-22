@@ -8,5 +8,6 @@ int main()
     int b=20;
     cout<<"Addition"<<a+b<<endl;
     cout<<"Hello India"<<endl;
+    cout<<"Hello Usa"<<endl;
     return 0;
 }
